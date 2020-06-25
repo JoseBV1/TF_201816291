@@ -1,0 +1,7 @@
+
+El porcentaje de riesgo de contagio que tienes en tu distrito 2 y con 5 personas vulnerables es: (0) 0.00121951
+El porcentaje de riesgo de contagio que tienes en tu distrito 2 y con 2 personas vulnerables es: (0) 0.000487802
+El porcentaje de riesgo de contagio que tienes en tu distrito 2 y con 2 personas vulnerables es: (0) 0.000487802 - OTRA OPERACIÓN - 
+El porcentaje de riesgo de contagio que tienes en tu distrito 4 y con 9 personas vulnerables es: (0) 0.00198435
+ - OTRA OPERACIÓN - 
+El porcentaje de riesgo de contagio que tienes en tu distrito 23 y con 1 personas vulnerables es: (0) 0.000895504
